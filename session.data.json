@@ -1,6 +1,6 @@
 {
   "creds": {
-    "noiseKey": {
+    "niseKey": {
       "private": {
         "type": "Buffer",
         "data": "wLSHWhBE5BTkC8UUDD7mI4+c0sRIJyVXPqqiACcf3mQ="
