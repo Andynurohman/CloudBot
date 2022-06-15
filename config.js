@@ -11,7 +11,7 @@ global.sgh = process.env.https://github.com/Andynurohman
 global.sgc = process.env.https://chat.whatsapp.com/Eqn3DKqcK2C3TWu56LBLRE
 global.ownernumber = process.env.6282138899290
 global.owner = [
-  ['6282138899290'],
+  ['6288983699591'],
   ['62882006892060'],
   [`${process.env.6282138899290}`, `${process.env.Owner Dyrotbotz}`, true]
   // [number, dia creator/owner?, dia developer?]
